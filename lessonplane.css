@@ -1,0 +1,298 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    background: #F6F6F6;
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+
+.container {
+    width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.header-top-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header-left {
+    display: flex;
+    align-items: center;
+}
+
+.input {
+    width: 275px;
+    height: 45px;
+    left: 836px;
+    top: 30px;
+    padding-left: 33px;
+    background: #FFFFFF;
+    border-radius: 60px;
+
+
+}
+
+.order-btn {
+    width: 89px;
+    height: 45px;
+    left: 1231px;
+    top: 30px;
+    margin-left: 25px;
+    background: #7296EC;
+    border-radius: 10px;
+}
+
+.currency {
+    display: flex;
+    align-items: center;
+
+}
+
+.site-nav {
+    padding-top: 40px;
+}
+
+.dollar {
+    color: blue;
+    display: flex;
+    margin-left: 10px;
+}
+
+.site-nav {
+    display: flex;
+}
+
+.about {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    list-style-type: none;
+
+}
+
+a {
+    text-decoration: none;
+}
+
+.long {
+
+    width: 1200px;
+    height: 0px;
+    left: 120px;
+    top: 176px;
+
+    border: 1px solid #D1D1D1;
+}
+
+.house {
+    padding-top: 40px;
+}
+
+.dast {
+    padding-top: 50px;
+}
+
+.aboute {
+    width: 535px;
+    height: 52px;
+
+}
+
+.aboutuse {
+    width: 535px;
+    height: 66px;
+    padding-top: 10px;
+    padding-bottom: 15px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    color: #4A4B4C;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+
+.title {
+    display: flex;
+    padding-top: 40px;
+
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+}
+
+.aria {
+    margin-bottom: 20px;
+    
+}
+
+.part {
+    padding-top: 15px;
+}
+
+.kelvin {
+    padding-top: 15px;
+}
+
+.button {
+    width: 796px;
+    height: 53px;
+    left: 120px;
+    top: 2169px;
+
+    background: #EAEAEA;
+    border-radius: 10px;
+}
+
+.order {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.aria {
+    padding-left: 15px;
+
+}
+
+.section {
+    padding-top: 40px;
+}
+
+.namangan {
+    width: 264px;
+    height: 28px;
+    left: 126px;
+    top: 39px;
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+
+    color: #7296EE;
+
+}
+
+.footer {
+    background: #7297EF;
+    padding: 40px;
+    margin-top: 40px;
+}
+
+.special {
+    display: flex;
+    justify-content: space-between;
+}
+
+.text {
+    padding-top: 15px;
+    width: 229px;
+    height: 95px;
+    left: 221px;
+    top: 2539px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 19px;
+    color: #FFFFFF;
+
+}
+
+.name {
+    width: 264px;
+    height: 28px;
+    left: 221px;
+    top: 2496px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    color: #FFFFFF;
+
+}
+
+.ucer {
+    list-style-type: none;
+    padding-bottom: 30px;
+}
+
+.simp {
+
+    color: #FFFFFF;
+    padding-top: 20px;
+
+}
+
+.ucername {
+    width: 161px;
+    height: 46px;
+    left: 221px;
+    top: 2726px;
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 23px;
+    color: #FFFFFF;
+
+}
+
+.iconka {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.iconka-right {
+    display: flex;
+}
+
+.img-icon {
+    padding-left: 28px;
+    padding-top: 40px;
+}
+
+.title {
+    background: #F6F6F6;
+    border-radius: 15px;
+    padding-top: ;
+
+}
+
+.information {
+    width: 87px;
+    height: 21px;
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+
+    color: #7F7F7F;
+    flex: none;
+    order: 3;
+    flex-grow: 0;
+
+
+}
+.header-right{
+    
+}
