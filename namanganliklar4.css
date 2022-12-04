@@ -114,116 +114,146 @@ a {
     flex-grow: 0;
 }
 
-.level0 {
+.grow {
+    padding-top: 60px;
+    margin-bottom: 20px;
+}
+
+.name-input {
+    width: 343px;
+    height: 55px;
+    left: 120px;
+    top: 284px;
+
+    background: #FFFFFF;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+}
+
+.number {
+    width: 343px;
+    height: 55px;
+    left: 473px;
+    top: 284px;
+
+    background: #FFFFFF;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+    margin-left: 10px;
+}
+
+.email {
+    width: 696px;
+    height: 55px;
+    left: 120px;
+    top: 349px;
+    margin-top: 10px;
+    background: #FFFFFF;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+}
+
+.text {
+    padding-top: -350px;
+    padding-left: 10px;
+    width: 696px;
+    height: 180px;
+    left: 120px;
+    top: 414px;
+    margin-top: 10px;
+    background: #FFFFFF;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+}
+
+.forty-page {
     display: flex;
-    align-items: center;
-    padding-top: 50px;
 }
 
-.first-p {
-    width: 797px;
-    height: 150px;
-    padding-top: 10px;
-    font-family: 'Rubik';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 20px;
-    line-height: 30px;
-    color: #000000;
-}
-
-.first-top {
-    padding-top: 20px;
-}
-
-.first-img {
-    padding-top: 20px;
-}
-
-.first-logo {
-    padding-top: 28px;
-}
-
-.box-bottom {
-    width: 780px;
+.line {
+    width: 400px;
     height: 0px;
-    border: 1px solid #000;
+    left: 851px;
+    top: 394px;
+
+    border: 1px solid #D2D2D2;
 }
 
-.first-div {
-    width: 358px;
-    height: 78px;
 
-    font-family: 'Rubik';
-    font-style: normal;
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 26px;
-    color: #000000;
-    flex: none;
-    order: 0;
-    flex-grow: 0;
-}
-
-.first-divp {
-    width: 346px;
-    height: 44px;
-
+.pochta.uz {
+    width: 197px;
+    height: 19px;
+    left: 851px;
+    top: 355px;
+    padding-bottom: 20px;
     font-family: 'Rubik';
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
-    line-height: 22px;
-    color: #4A4B4C;
-    flex: none;
-    order: 1;
-    flex-grow: 0;
-}
-
-.date-time {
-    width: 80px;
-    height: 14px;
-    left: 47px;
-    top: 175px;
-    font-family: 'Rubik';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 12px;
-    line-height: 14px;
-
-    color: #5E5F61;
+    line-height: 19px;
+    color: #000000;
 
 }
 
-.logo-icon {
-    display: flex;
-    align-items: center;
-    padding-top: 20px;
+.adress {
+    padding-top: 7px;
 }
 
-.finish {
-    display: flex;
-    padding-top: 20px;
+.telephone {
+    padding-top: 7px;
+    padding-bottom: 20px;
 }
 
-.body {
-    padding-top: 60px;
+.pochta-uz {
+    padding-top: 7px;
+    padding-bottom: 20px;
 }
 
-.exel {
-    width: 393px;
-    height: 207px;
-    left: 120px;
-    top: 1641px;
-
+.aside {
     background: #F6F6F6;
-    border-radius: 15px;
-    margin-left: 10px;
+    border-radius: 10px;
+}
+
+.pochta {
+    margin-top: 40px;
+}
+
+.number-tel {
+    padding-top: 20px;
+}
+
+.adres-blank {
+    padding-top: 20px;
+}
+
+.form-right {
+    margin-left: 20px;
+}
+
+.round {
+    align-items: center;
+    width: 145px;
+    height: 53px;
+    left: 671px;
+    top: 614px;
+
+    background: #7297EF;
+    border-radius: 10px;
+    border: solid #7297EF;
+}
+.land{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.criml{
+    color: white;
 }
 .footer {
     background: #7297EF;
     padding: 40px;
     margin-top: 40px;
+    margin-top: 200px;
 }
 
 .special {
@@ -231,7 +261,7 @@ a {
     justify-content: space-between;
 }
 
-.text {
+.text2 {
     padding-top: 15px;
     width: 229px;
     height: 95px;
@@ -301,12 +331,3 @@ a {
     padding-left: 28px;
     padding-top: 40px;
 }
-
-.title {
-    background: #F6F6F6;
-    border-radius: 15px;
-    padding-top: ;
-
-}
-
-
