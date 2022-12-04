@@ -6,153 +6,28 @@ body {
     width: 1180px;
     padding: 0 15px;
     margin: 0 auto;
+    /* display: flex; */
+}
+
+.body {
+    background-color: aqua;
+}
+
+.aria {
+    width: 500px;
+    height: 400px;
+    background-color: white;
+    margin-top: 80px;
+}
+
+.radial {
+    width: 50px;
+    height: 50px;
+    border: 2px solid black;
+    border-radius: 50%;
+}
+
+.title {
     display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-.olcha {
-    width: 99px;
-    height: 36px;
-    left: 356px;
-    top: 2904px;
-
-    font-family: 'Baloo Chettan 2';
-    font-style: normal;
-    font-weight: 600;
-    font-size: 25px;
-    line-height: 150%;
-    text-align: center;
-
-    color: #0A1902;
-
-}
-
-.score {
-    width: 101px;
-    height: 49px;
-    left: 355px;
-    top: 2970px;
-    font-family: 'Baloo Chettan 2';
-    font-style: normal;
-    font-weight: 600;
-    font-size: 35px;
-    line-height: 140%;
-    color: #59BE29;
-}
-
-.title-text {
-    width: 272px;
-    height: 52px;
-    left: 270px;
-    top: 3024px;
-
-    font-family: 'Baloo Chettan 2';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 160%;
-    text-align: center;
-
-    color: #0A1902;
-
-    opacity: 0.7;
-}
-
-.button {
-    width: 179px;
-    height: 55px;
-    left: 315px;
-    top: 3108px;
-
-    background: linear-gradient(180deg, #59BE29 0%, #59BE29 100%);
-    box-shadow: 0px 10px 20px rgba(22, 52, 7, 0.15);
-    border-radius: 20px 80px;
-
-}
-
-.section {
-
-    margin-left: 32px;
-    
-
-}
-
-.order-btn {
-    margin: 0 0 0 30px;
-    width: 99px;
-    height: 59px;
-    background: #59BE29;
-    box-shadow: 0px 10px 20px rgba(22, 52, 7, 0.05);
-    border-radius: 10px;
-}
-
-.special {
-    display: flex;
-    margin-top: 140px;
-    margin-left: 32px;
-}
-
-.text {
-    width: 392px;
-    height: 53px;
-
-    left: 815px;
-    top: 3497px;
-    font-family: 'Baloo Chettan 2';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 18px;
-    line-height: 160%;
-    color: #0A1902;
-
-    opacity: 0.7;
-}
-
-.label {
-    width: 258px;
-    height: 59px;
-    left: 815px;
-    top: 3584px;
-
-    background: #FFFFFF;
-    box-shadow: 0px 10px 20px rgba(22, 52, 7, 0.05);
-    border-radius: 10px;
-
-}
-
-.part {
-    padding-left: 305px;
-}
-
-.card {
-    width: 476px;
-    height: 48px;
-    left: 815px;
-    top: 3424px;
-
-    font-family: 'Baloo Chettan 2';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 49px;
-    line-height: 130%;
-    color: #0A1902;
-
-}
-
-.star {
-    text-decoration: none;
-}
-
-.pasw {
-    display: flex;
-    padding-top: 32px;
-}
-
-.input {
-    align-items: center;
-    padding: 10px 10px 10px 30px;
-    background: #FFFFFF;
-    box-shadow: 0px 10px 20px rgba(22, 52, 7, 0.05);
-    border-radius: 10px;
+    justify-content: space-between;
 }
